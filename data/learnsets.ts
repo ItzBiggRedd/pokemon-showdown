@@ -1147,6 +1147,7 @@ export const Learnsets: {[k: string]: LearnsetData} = {
 			sleeptalk: ["8M", "7M", "7V", "6M", "5T", "4M", "3T"],
 			snore: ["8M", "7T", "7V", "6T", "5T", "4T", "3T"],
 			solarbeam: ["8M", "8V", "7M", "7V", "6M", "5M", "4M", "3M"],
+			stickyweb: ["9M"],
 			stringshot: ["8L1", "4T"],
 			strugglebug: ["6M", "5M"],
 			stunspore: ["8L12", "8V", "7L13", "7V", "6L12", "5L12", "4L12", "3L14"],
